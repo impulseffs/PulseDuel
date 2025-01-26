@@ -1,1 +1,15 @@
 
+## Interface: 30300
+## Title: |cFF00FF00PulseDuel|r
+## Notes: Quick duel system with name-based targeting
+## Author: impulseffs
+## Version: 1.0
+## X-Website: https://github.com/impulseffs/PulseDuel
+## SavedVariables: PulseDuelDB
+## Dependencies: 
+## OptionalDeps: 
+## DefaultState: enabled
+## LoadOnDemand: 0
+## LoadWith: 
+
+PulseDuel.lua
