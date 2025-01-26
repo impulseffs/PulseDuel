@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/e046ca40-fa38-496a-bb39-59b6640ce8f2)
+
 # PulseDuel
 
 A World of Warcraft (3.3.5a) addon that enhances the dueling experience by providing quick and automatic duel functionality.
